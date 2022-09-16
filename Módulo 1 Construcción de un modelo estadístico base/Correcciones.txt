@@ -1,0 +1,3 @@
+Entre las principales correcciones esta la eliminación de la columna con bastantes datos faltantes,
+
+Imputación de datos vacios y cambio de datos faltantes de '?' a 'NaN'

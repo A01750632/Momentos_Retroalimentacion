@@ -1,0 +1,3 @@
+Se realizaron los cambios de imputación de datos por separado, cada data set, de train y test
+
+evitando data leakage
